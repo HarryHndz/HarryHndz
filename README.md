@@ -3,7 +3,8 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m studying software development<br>👀 I’m interested in tecnology<br>🧑🏻‍💻Experience in development web and mobile
+Multiplatform software development engineer, specialized in mobile frontend development with react native.
+Knowledge in web development and API creation.
 
 
 ## 🌐 Socials:
