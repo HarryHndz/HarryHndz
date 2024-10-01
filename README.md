@@ -3,8 +3,8 @@
 </div>
 
 # 💫 About Me:
-Multiplatform software development engineer, specialized in mobile frontend development with react native.
-Knowledge in web development and API creation.
+I am a Multiplatform Software Development Engineer with a specialized focus on frontend mobile development. Currently, I work as a Mobile Frontend Developer using React Native, where I contribute to the design and development of mobile applications.
+My training and experience also cover the development of APIs and web applications, working with technologies such as Node.js, Express and PHP, which allows me to approach projects from a comprehensive perspective, understanding both the frontend and the backend.
 
 
 ## 🌐 Socials:
