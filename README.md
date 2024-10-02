@@ -9,7 +9,8 @@ My training and experience also cover the development of APIs and web applicatio
 
 
 # 💻 Tech Stack:
-[![js](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![langague](https://skillicons.dev/icons?i=js,php,py,ts)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=react,laravel,nodejs,express)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryHndz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
