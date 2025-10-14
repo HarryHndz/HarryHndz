@@ -3,9 +3,7 @@
 </div>
 
 # 💫 About Me:
-I am a Multiplatform Software Development Engineer with a specialized focus on frontend mobile development. Currently, I work as a Mobile Frontend Developer using React Native, where I contribute to the design and development of mobile applications.
-<br/>
-My training and experience also cover the development of APIs and web applications, working with technologies such as Node.js, Express and PHP, which allows me to approach projects from a comprehensive perspective, understanding both the frontend and the backend.
+Full Stack Developer with 1+ year of experience in developing scalable web and mobile applications. Skilled in React, React Native, Node.js, Express.js, JavaScript, TypeScript, and Python. I have a strong background in building intuitive user interfaces, efficient backend development, and managing relational databases. I am distinguished by my focus on code quality, performance optimization, and the implementation of best development practices.
 
 
 # 💻 Tech Stack:
