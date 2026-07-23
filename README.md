@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Full Stack Developer with 1+ year of experience in developing scalable web and mobile applications. Skilled in React, React Native, Node.js, Express.js, JavaScript, TypeScript, and Python. I have a strong background in building intuitive user interfaces, efficient backend development, and managing relational databases. I am distinguished by my focus on code quality, performance optimization, and the implementation of best development practices.
+Full Stack Developer with experience in developing scalable web and mobile applications. Skilled in React, React Native, Node.js, Express.js, JavaScript, TypeScript, and Python. I have a strong background in building intuitive user interfaces, efficient backend development, and managing relational databases. I am distinguished by my focus on code quality, performance optimization, and the implementation of best development practices.
 
 
 # 💻 Tech Stack:
